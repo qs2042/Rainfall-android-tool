@@ -1,0 +1,80 @@
+<resources>
+    <!-- meta -->
+    <string name="app_name">Rainfall-tool</string>
+    <string name="app_introduce">this is tool app</string>
+    <string name="app_author">halfRain</string>
+    <string name="qq">qq</string>
+
+    <!-- menu -->
+    <string name="dashboard">dashboard</string>
+    <string name="functions">functions</string>
+    <string name="home">home</string>
+    <string name="recommend">recommend</string>
+    <string name="profile">profile</string>
+
+    <!-- sample_menu -->
+    <string name="menu_night_mode">Night mode</string>
+    <string name="menu_action_simple">simple mode</string>
+    <string name="menu_night_mode_system">Follow system</string>
+    <string name="menu_night_mode_day">Day</string>
+    <string name="menu_night_mode_night">Night</string>
+    <string name="menu_night_mode_auto">Auto</string>
+    <string name="menu_night_mode_battery">battery</string>
+    <string name="menu_night_mode_unspecified">unspecified</string>
+
+    <!-- 侧边菜单 -->
+    <string name="notifications">notifications</string>
+    <string name="friends">friends</string>
+    <string name="discussion">discussion</string>
+
+    <!-- settings -->
+    <string name="settings">settings</string>
+    <string name="search">search</string>
+    <string name="favorites">favorites</string>
+    <string name="language">language</string>
+    <string name="theme">theme</string>
+    <string name="about">about</string>
+    <string name="help">help</string>
+    <string name="ranking_list">ranking_list</string>
+
+    <string name="music">music</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+    <string name="shuffle">shuffle</string>
+    <string name="repeat">repeat</string>
+    <string name="volume">volume</string>
+
+    <string name="ip">IP</string>
+
+
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+
+
+
+    <!--  -->
+    <string name="clear_cache">clear_cache</string>
+    <string name="switch_language">switch language</string>
+    <string name="share">share</string>
+    <string name="share_application">share application</string>
+    <string name="default_parsing">default parsing</string>
+
+    <!-- 品牌名称 -->
+    <string name="brand_bilibili">bilibili</string>
+    <string name="brand_youtube">YouTube</string>
+    <string name="brand_niconico">Nico Nico</string>
+    <string name="brand_acfun">AcFun</string>
+    <string name="brand_douyin">douyin</string>
+    <string name="brand_kuaishou">kuaishou</string>
+
+    <!--  -->
+    <string name="login">login</string>
+    <string name="logout">logout</string>
+
+</resources>

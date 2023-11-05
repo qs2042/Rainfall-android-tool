@@ -1,0 +1,103 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+}
+
+android {
+    // SDK编译版本
+    compileSdkVersion 30
+    // 构建工具版本
+    buildToolsVersion "30.0.3"
+
+    // 默认配置
+    defaultConfig {
+        // 标识符ID
+        applicationId "com.qing.rainfall_tool"
+        // SDK最低版本
+        minSdkVersion 23
+        // SDK目标版本
+        targetSdkVersion 30
+        // 版本号
+        versionCode 1
+        // 版本号名称
+        versionName "1.0"
+        // 指定用于运行Android单元测试的测试运行器
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    // 构建类型
+    buildTypes {
+        // 发布类型
+        release {
+            // 是否启用代码压缩和混淆
+            minifyEnabled false
+            // 指定用于代码混淆和优化的ProGuard配置文件
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    // 编译选项
+    compileOptions {
+        // 指定源代码的兼容性为Java 8
+        sourceCompatibility JavaVersion.VERSION_1_8
+        // 定目标代码的兼容性为Java 8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+
+    // kotlin选项
+    kotlinOptions {
+        // 指定生成的Kotlin字节码的JVM目标版本为1.8。
+        jvmTarget = '1.8'
+    }
+
+    /*sourceSets {
+        main {
+            res.srcDirs = [
+                    'src/main/res/layout/functions',
+                    'src/main/res/layout/home',
+                    'src/main/res/layout',
+                    'src/main/res'
+            ]
+        }
+    }*/
+}
+
+// https://package-search.jetbrains.com/
+dependencies {
+    // 序化的方式生成Java源代码
+    implementation 'com.squareup:javapoet:1.13.0'
+    // 自动生成Java的ServiceLoader配置文件
+    implementation 'com.google.auto.service:auto-service-annotations:1.0'
+    // 自动发现和注册Java服务实现类
+    annotationProcessor 'com.google.auto.service:auto-service:1.0'
+    // 图片
+    implementation 'com.github.bumptech.glide:glide:4.15.1'
+    // material UI
+    implementation 'com.google.android.material:material:1.4.0'
+    // 工具类
+    implementation project(":lib_common")
+    // 免费开源的第三方地图
+    implementation 'org.osmdroid:osmdroid-android:6.1.10'
+    // 免费开源的zxing扫码项目
+//    implementation 'com.google.zxing:core:3.4.1'
+    implementation 'com.journeyapps:zxing-android-embedded:3.6.0'
+//    implementation 'com.journeyapps:zxing-android-embedded:3.4.0'
+
+    // kotlin标准库
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
+    // kotlin协程
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.5.2"
+    implementation "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.5.2"
+    // 简化Android开发
+    implementation 'androidx.core:core-ktx:1.3.1'
+    // 向后兼容的API, 支持旧Android设备
+    api 'androidx.appcompat:appcompat:1.2.0'
+    // Material Design组件库
+    implementation 'com.google.android.material:material:1.2.1'
+    // 用于实现灵活和响应式布局/列表和网格布局管理
+    api 'androidx.constraintlayout:constraintlayout:2.0.1'
+    api 'androidx.recyclerview:recyclerview:1.1.0'
+    // 单元测试
+    androidTestImplementation 'androidx.test.ext:junit:1.1.2'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
+}

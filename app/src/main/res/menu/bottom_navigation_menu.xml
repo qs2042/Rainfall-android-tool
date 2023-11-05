@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_view_dashboard"
+        android:title="@string/dashboard" />
+    <item
+        android:id="@+id/navigation_function"
+        android:icon="@drawable/ic_function"
+        android:title="@string/functions" />
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_circle"
+        android:title="@string/home" />
+    <item
+        android:id="@+id/navigation_recommend"
+        android:icon="@drawable/ic_star_box"
+        android:title="@string/recommend" />
+    <item
+        android:id="@+id/navigation_profile"
+        android:icon="@drawable/ic_account"
+        android:title="@string/profile" />
+</menu>

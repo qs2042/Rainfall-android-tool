@@ -1,0 +1,512 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="08951919-6ebe-4b73-9fcb-46102d23305d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainfall-tool" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainfall-tool" type="f1a62948:ProjectNode" />
+                <item name="lib_common" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Rainfall-tool" type="f1a62948:ProjectNode" />
+                <item name="lib_common" type="2d1252cf:ModuleNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="resourceFile" />
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2UgbMfJtU1g8kVFquu7v5GiLpqW" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="SerialNumber@127.0.0.1:21503" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2023-09-02T09:49:34.671999400Z" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SelectDeploymentTargetsDialog.selectedDevices" value="SerialNumber@127.0.0.1:21503" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/AppCompatEditText.java_SELECTED" value="AppCompatEditText" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar!/androidx/cardview/widget/CardView.java_SELECTED" value="CardView" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar!/androidx/coordinatorlayout/widget/CoordinatorLayout.java_SELECTED" value="CoordinatorLayout" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.0.0/9ecd4ecb7da215ba4c5c3e00bf8d290dad6f2bc5/drawerlayout-1.0.0-sources.jar!/androidx/drawerlayout/widget/DrawerLayout.java_SELECTED" value="DrawerLayout" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar!/androidx/viewpager2/widget/ViewPager2.java_SELECTED" value="ViewPager2" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/com/google/android/material/bottomnavigation/BottomNavigationView.java_SELECTED" value="BottomNavigationView" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/com/google/android/material/internal/ScrimInsetsFrameLayout.java_SELECTED" value="ScrimInsetsFrameLayout" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/com/google/android/material/navigation/NavigationBarView.java_SELECTED" value="NavigationBarView" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/com/google/android/material/navigation/NavigationView.java_SELECTED" value="NavigationView" />
+    <property name="android-custom-viewE:/Android/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.4.0/51035a8f6342c20d4d8f242d100e6f25e0c271ac/material-1.4.0-sources.jar!/com/google/android/material/tabs/TabLayout.java_SELECTED" value="TabLayout" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/opengl/GLSurfaceView.java_SELECTED" value="GLSurfaceView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/view/TextureView.java_SELECTED" value="TextureView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/view/ViewGroup.java_SELECTED" value="ViewGroup" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/view/ViewStub.java_SELECTED" value="ViewStub" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/AbsListView.java_SELECTED" value="AbsListView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/AdapterView.java_SELECTED" value="AdapterView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/AutoCompleteTextView.java_SELECTED" value="AutoCompleteTextView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/CalendarView.java_SELECTED" value="CalendarView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/CheckBox.java_SELECTED" value="CheckBox" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/CompoundButton.java_SELECTED" value="CompoundButton" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/DatePicker.java_SELECTED" value="DatePicker" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/EditText.java_SELECTED" value="EditText" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/FrameLayout.java_SELECTED" value="FrameLayout" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/GridView.java_SELECTED" value="GridView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/HorizontalScrollView.java_SELECTED" value="HorizontalScrollView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/ImageButton.java_SELECTED" value="ImageButton" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/ImageView.java_SELECTED" value="ImageView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/LinearLayout.java_SELECTED" value="LinearLayout" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/ListView.java_SELECTED" value="ListView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/MultiAutoCompleteTextView.java_SELECTED" value="MultiAutoCompleteTextView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/NumberPicker.java_SELECTED" value="NumberPicker" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/RelativeLayout.java_SELECTED" value="RelativeLayout" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/SearchView.java_SELECTED" value="SearchView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/Switch.java_SELECTED" value="Switch" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/TextView.java_SELECTED" value="TextView" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/TimePicker.java_SELECTED" value="TimePicker" />
+    <property name="android-custom-viewE:/Android/SDK/sources/android-30/android/widget/ToggleButton.java_SELECTED" value="ToggleButton" />
+    <property name="android-custom-viewE:/My_File/2022AndroidStudio/Rainfalltool/app/src/main/java/com/qing/rainfall_tool/CustomView.kt_SELECTED" value="CustomView" />
+    <property name="android-custom-viewE:/My_File/2022AndroidStudio/Rainfalltool/app/src/main/java/com/qing/rainfall_tool/test/CustomView.kt_SELECTED" value="CustomView" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../AndroidStudio/MyApplication_02" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.qing.rainfall_tool.utils" />
+      <recent name="com.qing.rainfall_tool.fragment.functions" />
+      <recent name="com.qing.rainfall_tool.test" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.qing.lib_common" />
+      <recent name="com.qing.rainfall_tool.fragment.functions" />
+      <recent name="com.qing.rainfall_tool.fragment" />
+      <recent name="com.qing.rainfall_tool" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\drawable" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\layout\functions\layout" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\layout" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\layout\home\layout" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\drawable-icon" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\drawable" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\layout\functions\layout" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\layout" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\menu" />
+      <recent name="E:\My_File\2022AndroidStudio\Rainfalltool\app\src\main\res\values-en" />
+    </key>
+    <key name="android.template.-747662575">
+      <recent name="com.qing.rainfall_tool.fragment.functions" />
+    </key>
+    <key name="android.template.-1184822778">
+      <recent name="com.qing.rainfall_tool" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rainfall-tool.app" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.rainfall_tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing.rainfall_tool" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.rainfall_tool.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="Rainfall-tool.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleInstrumentedT..." type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="Rainfall-tool.app" />
+      <option name="TESTING_TYPE" value="2" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="com.qing.rainfall_tool.ExampleInstrumentedTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="useAppContext()" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests" temporary="true" nameIsGenerated="true">
+      <module name="Rainfall-tool.app" />
+      <option name="TESTING_TYPE" value="3" />
+      <option name="METHOD_NAME" value="useAppContext" />
+      <option name="CLASS_NAME" value="com.qing.rainfall_tool.ExampleInstrumentedTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="INCLUDE_GRADLE_EXTRA_OPTIONS" value="true" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rainfall-tool.lib_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.lib_common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing.lib_common" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.lib_common.ExampleUnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExampleUnitTest.addition_isCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Rainfall-tool.lib_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qing.lib_common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qing.lib_common" />
+      <option name="MAIN_CLASS_NAME" value="com.qing.lib_common.ExampleUnitTest" />
+      <option name="METHOD_NAME" value="addition_isCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android Instrumented Tests.useAppContext()" />
+        <item itemvalue="Android Instrumented Tests.ExampleInstrumentedT..." />
+        <item itemvalue="Android JUnit.ExampleUnitTest.addition_isCorrect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08951919-6ebe-4b73-9fcb-46102d23305d" name="Default Changelist" comment="" />
+      <created>1693364123740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1693364123740</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="326" y="204" width="1190" height="538" key="#PSD" timestamp="1694936684626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="326" y="204" width="1190" height="538" key="#PSD/0.0.1920.1040@0.0.1920.1040" timestamp="1694936684626" />
+    <state x="254" y="214" width="1092" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1693736886551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="254" y="214" width="1092" height="717" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1693736886551" />
+    <state x="590" y="256" key="#com.intellij.ide.util.ExportDialog" timestamp="1695116724816">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="590" y="256" key="#com.intellij.ide.util.ExportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1695116724816" />
+    <state x="744" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1694347088197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="744" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1694347088197" />
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1694084377464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694084377464" />
+    <state x="683" y="307" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1694077363732">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="683" y="307" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694077363732" />
+    <state x="672" y="384" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1694934017490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="672" y="384" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1694934017490" />
+    <state x="92" y="92" width="1736" height="856" key="AVDManager" timestamp="1694068888524">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="AVDManager/0.0.1920.1040@0.0.1920.1040" timestamp="1694068888524" />
+    <state x="540" y="274" key="AndroidCreateResourceDirectoryDialog" timestamp="1693642538983">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="274" key="AndroidCreateResourceDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1693642538983" />
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog" timestamp="1693658913356">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="274" key="AndroidCreateResourceFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1693658913356" />
+    <state x="988" y="424" key="AndroidCreateXmlResourceDialog" timestamp="1694083097033">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="988" y="424" key="AndroidCreateXmlResourceDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694083097033" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1695127668947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1695127668947" />
+    <state width="1876" height="243" key="GridCell.Tab.0.bottom" timestamp="1695127785221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1695127785221" />
+    <state width="1876" height="243" key="GridCell.Tab.0.center" timestamp="1695127785221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1695127785221" />
+    <state width="1876" height="243" key="GridCell.Tab.0.left" timestamp="1695127785221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1695127785221" />
+    <state width="1876" height="243" key="GridCell.Tab.0.right" timestamp="1695127785221">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="243" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1695127785221" />
+    <state width="1876" height="370" key="GridCell.Tab.1.bottom" timestamp="1693828042787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1693828042787" />
+    <state width="1876" height="370" key="GridCell.Tab.1.center" timestamp="1693828042787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1693828042787" />
+    <state width="1876" height="370" key="GridCell.Tab.1.left" timestamp="1693828042787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1693828042787" />
+    <state width="1876" height="370" key="GridCell.Tab.1.right" timestamp="1693828042787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="370" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1693828042787" />
+    <state x="461" y="151" key="SettingsEditor" timestamp="1694415354792">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="151" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1694415354792" />
+    <state x="759" y="296" key="chooseDestDirectoryDialog" timestamp="1694142118076">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="759" y="296" key="chooseDestDirectoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694142118076" />
+    <state x="662" y="327" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog" timestamp="1694068715316">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="662" y="327" key="com.android.tools.idea.run.deployment.SelectMultipleDevicesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1694068715316" />
+    <state x="661" y="252" width="598" height="536" key="find.popup" timestamp="1695038511246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="661" y="252" width="598" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1695038511246" />
+    <state x="800" y="289" key="refactoring.ChangeSignatureDialog" timestamp="1693400092708">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="800" y="289" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1693400092708" />
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup" timestamp="1695044613925">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1695044613925" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1695116253404">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1695116253404" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.lang.String" memberName="hash" />
+        <PinnedItemInfo parentTag="java.lang.String" memberName="shadow$_klass_" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

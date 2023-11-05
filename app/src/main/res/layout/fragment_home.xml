@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.viewpager.widget.ViewPager
+        android:id="@+id/viewPager"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="?attr/colorOnPrimary" />
+
+    <TextView
+        android:background="@color/yellow"
+        android:padding="4dp"
+
+        android:ellipsize="marquee"
+        android:focusable="true"
+        android:focusableInTouchMode="true"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:singleLine="true"
+
+        android:drawableLeft="@drawable/ic_tools"
+        android:text="公告: 热门旅游地, 体验新感觉"
+        android:textColor="@color/black"
+        android:layout_width="match_parent"
+        android:gravity="center"
+        android:layout_height="wrap_content" />
+
+    <!--<androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycler_view"
+        android:background="?attr/colorOnPrimary"
+        android:layout_marginBottom="@dimen/margin_low"
+        android:padding="@dimen/margin_low"
+        android:layout_width="match_parent"
+        android:layout_height="160dp">
+    </androidx.recyclerview.widget.RecyclerView>-->
+
+    <com.qing.rainfall_tool.component.PageRecyclerView
+        android:id="@+id/cusom_swipe_view"
+        android:background="?attr/colorOnPrimary"
+        android:layout_width="match_parent"
+        android:layout_height="160dp" />
+
+    <com.qing.rainfall_tool.component.PageIndicatorView
+        android:id="@+id/indicator"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:text="为你推荐"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        </LinearLayout>
+
+
+</LinearLayout>

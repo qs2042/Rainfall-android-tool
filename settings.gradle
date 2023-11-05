@@ -1,0 +1,3 @@
+rootProject.name = "Rainfall-tool"
+include ':app'
+include ':lib_common'

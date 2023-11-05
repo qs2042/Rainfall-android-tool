@@ -1,0 +1,79 @@
+<resources>
+    <!-- 元数据 -->
+    <string name="app_name">Rainfall-tool</string>
+    <string name="app_introduce">暂无介绍</string>
+    <string name="app_author">halfRain</string>
+    <string name="qq">2042136767</string>
+
+    <!-- 菜单 -->
+    <string name="dashboard">仪表盘</string>
+    <string name="functions">功能</string>
+    <string name="home">主页</string>
+    <string name="recommend">推荐</string>
+    <string name="profile">个人资料</string>
+
+    <!-- 小菜单 -->
+    <string name="menu_night_mode">夜间模式</string>
+    <string name="menu_action_simple">简易模式</string>
+    <string name="menu_night_mode_system">跟随系统</string>
+    <string name="menu_night_mode_day">日间模式</string>
+    <string name="menu_night_mode_night">夜间模式</string>
+    <string name="menu_night_mode_auto">跟随时间</string>
+    <string name="menu_night_mode_battery">电池状态</string>
+    <string name="menu_night_mode_unspecified">主题/系统设置</string>
+
+    <!-- 侧边菜单 -->
+    <string name="notifications">通知</string>
+    <string name="friends">好友</string>
+    <string name="discussion">讨论</string>
+
+    <!-- 设置 -->
+    <string name="settings">设置</string>
+    <string name="search">搜索</string>
+    <string name="favorites">收藏</string>
+    <string name="language">语言</string>
+    <string name="theme">主题</string>
+    <string name="about">关于</string>
+    <string name="help">帮助</string>
+    <string name="ranking_list">排行榜</string>
+
+    <string name="music">音乐</string>
+    <string name="play">播放</string>
+    <string name="pause">暂停</string>
+    <string name="next">下一首</string>
+    <string name="previous">上一首</string>
+    <string name="shuffle">随机播放</string>
+    <string name="repeat">重复播放</string>
+    <string name="volume">音量</string>
+
+    <string name="ip">IP地址</string>
+
+
+
+    <string name="cheese_ipsum">Jarlsberg lancashire edam. Dolcelatte hard cheese brie st. agur blue
+    cheese caerphilly bavarian bergkase cheese and biscuits mascarpone. Cheeseburger swiss bavarian
+    bergkase cream cheese fromage frais cheesy feet port-salut airedale. St. agur blue cheese rubber
+    cheese caerphilly cheddar cheesecake cream cheese manchego lancashire. Roquefort squirty cheese
+    the big cheese.</string>
+
+
+    <!-- 常用功能 -->
+    <string name="clear_cache">清除缓存</string>
+    <string name="switch_language">切换语言</string>
+    <string name="share">分享</string>
+    <string name="share_application">分享应用</string>
+    <string name="default_parsing">默认解析</string>
+
+    <!-- 品牌名称 -->
+    <string name="brand_bilibili">哔哩哔哩</string>
+    <string name="brand_youtube">YouTube</string>
+    <string name="brand_niconico">NicoNico</string>
+    <string name="brand_acfun">AcFun</string>
+    <string name="brand_douyin">抖音</string>
+    <string name="brand_kuaishou">快手</string>
+
+    <!--  -->
+    <string name="login">登录</string>
+    <string name="logout">退出登录</string>
+
+</resources>

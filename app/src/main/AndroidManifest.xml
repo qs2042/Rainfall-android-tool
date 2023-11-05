@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.qing.rainfall_tool">
+
+    <!-- 网络权限 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <!-- ... -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- 前台服务权限 -->
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+
+    <!-- 读取外部存储权限 -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <!-- 相机权限，用于应用程序访问设备的相机功能 -->
+    <uses-permission android:name="android.permission.CAMERA" />
+
+    <!-- 精确位置权限，用于应用程序访问设备的精确位置信息（如 GPS） -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <!-- 大致位置权限，用于应用程序访问设备的大致位置信息（如网络基站或 Wi-Fi） -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <!-- 读取联系人权限，用于应用程序读取设备上的联系人信息 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+
+    <!-- 写入联系人权限，用于应用程序修改或创建设备上的联系人信息 -->
+    <uses-permission android:name="android.permission.WRITE_CONTACTS" />
+
+    <!-- 录音权限，用于应用程序访问设备的麦克风并进行录音操作 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+
+    <!-- 读取电话状态权限，用于应用程序读取设备的电话状态信息 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <!-- 拨打电话权限，用于应用程序拨打电话 -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <!-- 发送短信权限，用于应用程序发送短信消息 -->
+    <uses-permission android:name="android.permission.SEND_SMS" />
+
+    <!-- WIFI状态访问权限 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <!-- application属性 -->
+    <!--
+     usesCleartextTraffic     从27版本后不允许使用http方式来请求, 需要使用https, 可通过此选项强制更改
+     allowBackup
+     supportsRtl
+     -->
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:supportsRtl="true"
+
+        android:name=".MyApplication"
+
+        android:label="@string/app_name"
+        android:icon="@mipmap/ic_r"
+        android:roundIcon="@mipmap/ic_r_round"
+        android:theme="@style/Theme.Rainfalltool">
+
+        <service android:name=".MainService" />
+
+        <receiver android:name=".broadcast_receiver.MyBroadcastReceiver" android:enabled="true" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_SCREEN_ON"/>
+                <action android:name="com.qing.rainfall_tool.MY_ACTION"/>
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="com.qing.rainfall_tool.content_provider.MyContentProvider"
+            android:authorities="com.qing.rainfall_tool.provider.one"
+            android:exported="false" />
+
+
+        <!-- 网络 -->
+        <activity android:name=".ui.functions.HostsManager" />
+        <activity android:name=".ui.functions.IpSearch" />
+        <activity android:name=".ui.functions.PortScan" />
+        <activity android:name=".ui.functions.NetworkDiagnostic" />
+        <!--  -->
+        <activity android:name=".ui.functions.RMap" />
+        <activity android:name=".ui.functions.CodeScan" />
+        <activity android:name=".ui.functions.FileManager" />
+        <activity android:name=".ui.functions.WrappedH5" />
+        <activity android:name=".ui.functions.Device" />
+        <activity android:name=".ui.functions.WiFiTool" />
+        <activity android:name=".ui.functions.ResourcesDownload" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
